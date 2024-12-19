@@ -56,7 +56,5 @@ The analysis revealed:
 - Popular payment methods among customers.
 - Key customer segments driving revenue.
 
-Detailed insights are documented within the notebook.
-
 
 
