@@ -56,5 +56,7 @@ The analysis revealed:
 - Popular payment methods among customers.
 - Key customer segments driving revenue.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 
